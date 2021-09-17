@@ -1,2 +1,1 @@
-# cs5350
-Computer Science 5350 - Machine Learning University of Utah
+This is a machine learning library developed by Marshall Underwood for CS5350/6350 in University of Utah
